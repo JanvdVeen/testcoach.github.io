@@ -1,5 +1,7 @@
 header {
   background-image: url('images/startpagina.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: #cccccc;
   height: 200px;
   padding: 50px;
