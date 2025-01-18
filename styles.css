@@ -6,8 +6,6 @@ header {
   height: 400px;
   padding: 50px;
   margin: 50px;
-  z-index: 0; 
-  ;
 }
 nav ul {
   list-style: none;
@@ -27,5 +25,4 @@ nav a {
   border: 10px;
   left: 0px;
   top: 0px;
-  z-index: 1000;
 }
