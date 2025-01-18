@@ -1,6 +1,7 @@
-body {
+header {
   background-image: url('images/startpagina.png');
   background-color: #cccccc;
+  height: fit-content;
 }
 nav ul {
   list-style: none;
