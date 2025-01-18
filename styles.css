@@ -22,8 +22,10 @@ nav a {
 }
 
 .balk {
-  background-color:#ffff0080;
+  border-color:#17171780;
+  border-style: solid;
+  border: 10px;
   left: 0px;
   top: 0px;
-  z-index: -1;
+  z-index: 1000;
 }
