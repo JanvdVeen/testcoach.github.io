@@ -20,7 +20,9 @@ nav a {
 }
 
 .balk {
-  background-color: rgb(201, 203, 72);
+
+  background-color: #f3acac;
   padding: 10px;
-  border: 1px solid black;
+  text-align: center;
+
 }
