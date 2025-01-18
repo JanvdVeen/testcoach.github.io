@@ -1,7 +1,9 @@
 header {
   background-image: url('images/startpagina.png');
   background-color: #cccccc;
-  height: fit-content;
+  height: 200px;
+  padding: 50px;
+  margin: 50px;
 }
 nav ul {
   list-style: none;
