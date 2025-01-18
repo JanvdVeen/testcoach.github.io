@@ -25,3 +25,33 @@ nav a {
   padding: 10px;
   text-align: center;
 }
+
+.vak1 {
+  background-color: #00ff51;
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+.vak2 {
+  background-color: #5b50b7;
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  
+}
+
+.vak3 {
+  background-color: #be5d9f;
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  
+}
