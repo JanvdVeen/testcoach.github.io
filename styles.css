@@ -3,9 +3,11 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #cccccc;
-  height: 200px;
+  height: 400px;
   padding: 50px;
   margin: 50px;
+  z-index: 0; 
+  ;
 }
 nav ul {
   list-style: none;
@@ -17,4 +19,11 @@ nav a {
   text-decoration: none;
   color: #333;
   font-weight: bold;
+}
+
+.balk {
+  background-color:#ffff0080;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
 }
